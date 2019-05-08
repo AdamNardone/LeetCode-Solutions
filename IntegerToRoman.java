@@ -3,9 +3,6 @@ class Solution {
         
         String result = "";
         
-        int carry;
-        int n;
-        
         while(num > 0)
         {
             if(num >= 1000)
